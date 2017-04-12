@@ -1,3 +1,7 @@
+# The tests asked for a different solution than the lab, but I believe I 
+# solved it correctly based on the tests.
+
+
 def hello_t(names)
 	i = 0
 	t_names = []
